@@ -1,12 +1,14 @@
 # Mapgenie.io-Tarkov-Better-Icons
 
-Chrome browser-based "mod" for external [mapgenie.io Tarkov maps](https://mapgenie.io/tarkov) website. Colorful, rarity-based icons for much better clarity.
+Browser-based "mod" for external [mapgenie.io Tarkov maps](https://mapgenie.io/tarkov) website. Colorful, rarity-based icons for much better clarity.
+
+This "mod" uses an open-source extension Resource Override to swap markers.png Mapgenie.io uses for it's Tarkov maps for a custom one hosted on my github repository. Works with any Chrome-based browser and Firefox!
 
 ![Woods](https://raw.githubusercontent.com/odt1/Mapgenie.io-Tarkov-Better-Icons/main/examples/chrome_FDqwj2eg3G.png)
 
 Installation:
 
-1) Install Resource Override from [Chrome webstore](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) or manually from [Kyle Paulsen's GitHub](https://github.com/kylepaulsen/ResourceOverride).
+1) Install Resource Override from [Chrome webstore](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) or [Firefox page](https://addons.mozilla.org/en-US/firefox/addon/resourceoverride/) (or manually from [Kyle Paulsen's GitHub](https://github.com/kylepaulsen/ResourceOverride)).
 2) Download the mod [release archive](https://github.com/odt1/Mapgenie.io-Tarkov-Better-Icons) and unpack it.
 3) Inside you will see resource_override_rules.json files.
 4) In Chrome, right to the address bar, click on puzzle icon, that opens extensions menu, then click on Resource Override to open its settings.
